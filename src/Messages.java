@@ -15,7 +15,7 @@ public class Messages {
             System.out.println("your all messages= \n");
             for(String m: messages) {
                 String name= Contacts.getNames().get(messages.indexOf(m));
-                System.out.println("name="+ name + "message=" + m + "\n");
+                System.out.println("name="+ name + "  " + "message=" + m + "\n");
             }
         }
         else{
