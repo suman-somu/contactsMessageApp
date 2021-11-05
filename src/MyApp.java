@@ -30,7 +30,7 @@ public class MyApp {
                 break;
 
             case 2:
-                messages();
+                manageMessages();
                 break;
             case 3:
                 break;
@@ -43,8 +43,32 @@ public class MyApp {
     }
 
 
-    private static void messages() {
+    private static void manageMessages() {
 
+        System.out.println("options: \n" +
+                "\t1 see the list of messages \n" +
+                "\t2 send a new message \n" +
+                "\t3 go back to previous menu \n");
+        int choice= sc.nextInt();
+        switch (choice){
+            case 1:
+                //show all messages
+
+                Messages.showAllMessages();
+                manageMessages();
+                break;
+            case 2:
+                //send a new message
+
+                Messages.sendNewMessage();
+                manageMessages();
+                break;
+            case 3:
+                //go back to previous menu
+
+                MainFunction();
+                break;
+        }
     }
 
 

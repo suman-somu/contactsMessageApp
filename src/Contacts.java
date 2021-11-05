@@ -6,8 +6,13 @@ public class Contacts {
     static Scanner sc=new Scanner(System.in);
 
 
-    public static ArrayList<String> PhoneNumbers;
-    public static ArrayList<String> Names;
+    private static ArrayList<String> PhoneNumbers;
+
+    public static ArrayList<String> getNames() {
+        return Names;
+    }
+
+    private static ArrayList<String> Names;
 
 
     public static void showAllContacts(){
@@ -83,7 +88,6 @@ public class Contacts {
             System.out.println("there are no contacts. \n Please try after adding some.");
         }
     }
-
 
     public static void deleteContact() {
 
