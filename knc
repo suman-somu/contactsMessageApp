@@ -1,0 +1,64 @@
+[33mcommit 659c569948d073dec521c5e0927e5efb132d0b60[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 00daccc ef3e8de
+Author: Suman Sahoo <75962762+suman-somu@users.noreply.github.com>
+Date:   Fri Nov 5 15:44:48 2021 +0530
+
+    Merge pull request #1 from suman-somu/somu-patch
+    
+    Somu patch
+
+[33mcommit ef3e8de7f98ba51b83668eb4e9c59bd637bed9d3[m[33m ([m[1;31morigin/somu-patch[m[33m, [m[1;32msomu-patch[m[33m)[m
+Author: suman-somu <ssamsomu@gmail.com>
+Date:   Fri Nov 5 15:37:28 2021 +0530
+
+    added files
+
+[33mcommit 80f2cfc2b62a6a12bcf1fbd37c2a437b91894031[m
+Author: suman-somu <ssamsomu@gmail.com>
+Date:   Fri Nov 5 15:33:20 2021 +0530
+
+    little changes
+    
+    improvements done
+
+[33mcommit 00daccc4e7c2fac22f028631635d95f7b34638c7[m
+Author: Suman Sahoo <75962762+suman-somu@users.noreply.github.com>
+Date:   Fri Nov 5 12:58:17 2021 +0530
+
+    Update README.md
+
+[33mcommit 225df3f34e75d0eb36c9eaee067b5545632e7890[m
+Author: Suman Sahoo <75962762+suman-somu@users.noreply.github.com>
+Date:   Fri Nov 5 12:57:44 2021 +0530
+
+    Update README.md
+
+[33mcommit a901bda202494c513821b11b2c572a1d9931a400[m
+Author: Suman Sahoo <75962762+suman-somu@users.noreply.github.com>
+Date:   Fri Nov 5 12:57:24 2021 +0530
+
+    Create README.md
+
+[33mcommit 3f5548bb8088dbfd4e623cd67b17b81af5efe17b[m
+Author: suman-somu <ssamsomu@gmail.com>
+Date:   Fri Nov 5 12:40:55 2021 +0530
+
+    one task done - message option functionality
+    
+    added some functionality to message option
+
+[33mcommit ee86d2f238cf1ef46adaae8a1399f3c4b45b9d24[m
+Author: suman-somu <ssamsomu@gmail.com>
+Date:   Fri Nov 5 11:20:23 2021 +0530
+
+    one task done - contacts option functionality
+    
+    this commit includes everything of the contacts method.
+
+[33mcommit 6e37778f369d5ed9cb3b5017765f7a53569bfeb8[m
+Author: suman-somu <ssamsomu@gmail.com>
+Date:   Thu Nov 4 16:06:06 2021 +0530
+
+    the manage contacts part is half finished
+    
+    this is the first commit to this repo
