@@ -70,13 +70,18 @@ public class MyApp {
                 manageContacts();
                 break;
             case 3:
-                String searchName = sc.next();
+                //search contacts
+                Contacts.searchContacts();
+                manageContacts();
                 break;
             case 4:
                 //delete a contact
+                Contacts.deleteContact();
+                manageContacts();
                 break;
             case 5:
                 //go back to previous menu
+
                 MainFunction();
                 break;
             default:
